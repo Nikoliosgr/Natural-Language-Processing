@@ -21,7 +21,10 @@ Utilized many libraries and especially CUDA.
 
 -LinkPredicter.ipynb
 
+
+
+NOTE: A pdf is included explaining the code and the theory behind it.
+
 # Creator
 Nikolaos Giannopoulos cs05199
 
-# NOTE: A pdf is included explaining the code and the theory behind it.
