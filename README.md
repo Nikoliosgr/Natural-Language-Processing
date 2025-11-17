@@ -24,4 +24,4 @@ Utilized many libraries and especially CUDA.
 # Creator
 Nikolaos Giannopoulos cs05199
 
-NOTE: A pdf is included explaining the code and the theory behind it.
+# NOTE: A pdf is included explaining the code and the theory behind it.
